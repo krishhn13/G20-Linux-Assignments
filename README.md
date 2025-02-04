@@ -95,11 +95,6 @@ Have suggestions or found an issue? Feel free to open an issue in the repository
 Thanks to all contributors and Linux enthusiasts for making this repository possible! 🙌
 
 ---
-
-## 📜 License
-
-This project is licensed under the [MIT License](./LICENSE).
-
 ---
 
 <div align ="center">Happy Learning! 🐧</div>
